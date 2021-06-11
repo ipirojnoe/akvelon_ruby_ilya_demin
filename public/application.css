@@ -1,0 +1,38 @@
+ul {
+  list-style-type: none;
+}
+
+.icon {
+  font-size: 28px;
+}
+
+.back-icon, .back-icon:hover {
+  color: #428bca;
+  text-decoration: none;
+}
+
+a, a:hover {
+  color: black !important;
+  text-decoration: none !important;
+}
+
+.table {
+  display: table;
+}
+
+.row {
+  display: table-row;
+}
+
+.cell {
+  display: table-cell;
+  padding: 10px;
+}
+
+.td-icon {
+  text-align: center;
+}
+
+td {
+  vertical-align: middle;
+}
